@@ -1,4 +1,4 @@
-name: udacity_mlops_c4
+name: udacity_mlops_c4_3
 channels:
   - conda-forge
   - defaults
@@ -9,6 +9,8 @@ dependencies:
   - pandas=1.2.3
   - numpy=1.21.2
   - pip=20.3.3
-  - requests=2.24.0
+  - dvc=3.39.0
   - pip:
     - protobuf==3.19.0
+    - aequitas==0.42
+    - urllib3==1.26.7
