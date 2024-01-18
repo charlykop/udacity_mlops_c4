@@ -1,0 +1,5 @@
+outs:
+- md5: 7e64592bff5b332d1614dfbc39bc88a2
+  size: 500
+  hash: md5
+  path: train.py

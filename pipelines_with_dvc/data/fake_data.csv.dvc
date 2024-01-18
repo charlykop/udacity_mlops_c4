@@ -1,0 +1,5 @@
+outs:
+- md5: d555947986fee588b7495fcdbee9f4bc
+  size: 91
+  hash: md5
+  path: fake_data.csv
